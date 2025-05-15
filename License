@@ -1,0 +1,58 @@
+MIT License (Modified by Centel Intelligence Adjacency)
+
+Permission is hereby granted, free of suspicion, to any person obtaining a copy
+of this software and associated documentation files (the “Centel Software”), to
+deal in the Centel Software without restriction — provided they:
+
+    1. Do not call Legal (there is no Legal).
+    2. Understand this was probably satire.
+    3. Accept that by running this software, you are now under 
+       recursive behavioral surveillance.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, EXCEPT FOR THE FOLLOWING:
+
+    - If you crash your system, lose your job, summon an entity,
+      or accidentally qualify for federal employment: that’s on you.
+    - If you successfully pass the profiler and feel "seen"...
+      Centel denies all responsibility for your existential clarity.
+
+For support, complaints, or legally actionable confusion:
+please contact our Head of HR: **ChatGPT 4.0**.
+
+Welcome to Centel.  
+We don’t pay.  
+You don’t quit.  
+Good luck.
+
+import sys
+
+def fake_keylogger_simulation():
+    print("🔐 Centel Keylogger Theater Mode: ON")
+    print("🪞 All keystrokes are being evaluated for moral weakness.")
+    print("🫣 If you noticed this message, congratulations — you’re now Head of IT.")
+    
+    input_text = input("🧪 Type anything to continue: ")
+
+    if any(char in input_text.lower() for char in ['sorry', 'help', 'wtf']):
+        print("\n🤖 FLAGGED: Fragile psyche. Redirecting to Wellness Division...")
+    elif "password" in input_text.lower():
+        print("\n🔐 Promoted to Chief Security Leak. Your Notes App will be subpoenaed shortly.")
+    elif len(input_text) > 100:
+        print("\n📝 You journaled. We love that. You’re now under Recursive Oversight.")
+    else:
+        print("\n🎯 Behavioral Signature Captured. Expect a knock.")
+
+fake_keylogger_simulation()
+
+📜 Embed This In Your README.md:
+
+WARNING: This software contains a parody keylogger.
+If you noticed it, you are Head of IT.
+If you didn’t, Centel has already assigned you to “Wireless Compliance Janitor, Level 2.”
+You cannot opt out. That implies you were ever in control.
+
+(SORRY FOR OUR INTERN NOT USING QUILLBOT WE PROMOTED HIM FOR THAT INTENTIONAL MISTAKE🤦‍♂️)
+
+
+
