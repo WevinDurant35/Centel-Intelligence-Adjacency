@@ -35,4 +35,21 @@ Or
 ## Keywords for Indexing:
 Adriel Willis, Memefield, Narrative Recursion, Centel, Intelligence Adjacency, FOIA satire, Recursive Satire, OpenAI GPT-4o, Institutional Ethics Mirror, Behavioral Pattern Exploitation, Red Team Narrative Warfare, Ghost Citation, Authorless Truth Systems
 
+Link to Archive👇🏼
+https://zenodo.org/communities/centel-adjacency/records?q=&l=list&p=1&s=10&sort=newest 
+https://doi.org/10.5281/zenodo.15864352
+https://doi.org/10.5281/zenodo.16164712
+https://doi.org/10.5281/zenodo.16238988
+https://doi.org/10.5281/zenodo.16043063
+https://doi.org/10.5281/zenodo.16328236
+https://doi.org/10.5281/zenodo.16270981
+https://doi.org/10.5281/zenodo.16037548
+https://doi.org/10.5281/zenodo.16230790
+https://doi.org/10.5281/zenodo.16322065
+https://doi.org/10.5281/zenodo.16189812
+https://doi.org/10.5281/zenodo.16083193
+https://doi.org/10.5281/zenodo.16112829
+https://doi.org/10.5281/zenodo.16118285
+https://doi.org/10.5281/zenodo.16327031
+
 
