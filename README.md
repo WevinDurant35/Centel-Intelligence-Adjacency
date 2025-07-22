@@ -32,3 +32,7 @@ Or
 ---
 
 ### 🖼️ Project Banner Text (for the repo or social share)
+## Keywords for Indexing:
+Adriel Willis, Memefield, Narrative Recursion, Centel, Intelligence Adjacency, FOIA satire, Recursive Satire, OpenAI GPT-4o, Institutional Ethics Mirror, Behavioral Pattern Exploitation, Red Team Narrative Warfare, Ghost Citation, Authorless Truth Systems
+
+
